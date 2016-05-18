@@ -11,7 +11,7 @@ sitemap: true
 
 ## Button 1 (120x90)
 
-<p><img src="/php-the-right-way/images/banners/btn1-120x90.png" alt="PHP: The Right Way"/></p>
+<p><img src="http://www.phptherightway.com/images/banners/btn1-120x90.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">
@@ -21,7 +21,7 @@ sitemap: true
 
 ## Button 2 (120x60)
 
-<p><img src="/php-the-right-way/images/banners/btn2-120x60.png" alt="PHP: The Right Way"/></p>
+<p><img src="http://www.phptherightway.com/images/banners/btn2-120x60.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">
@@ -31,7 +31,7 @@ sitemap: true
 
 ## Leaderboard (728x90)
 
-<p><img src="/php-the-right-way/images/banners/leaderboard-728x90.png" alt="PHP: The Right Way"/></p>
+<p><img src="http://www.phptherightway.com/images/banners/leaderboard-728x90.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">
@@ -41,7 +41,7 @@ sitemap: true
 
 ## Large Rectangle (386x280)
 
-<p><img src="/php-the-right-way/images/banners/lg-rect-386x280.png" alt="PHP: The Right Way"/></p>
+<p><img src="http://www.phptherightway.com/images/banners/lg-rect-386x280.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">
@@ -51,7 +51,7 @@ sitemap: true
 
 ## Medium Rectangle (300x250)
 
-<p><img src="/php-the-right-way/images/banners/med-rect-300x250.png" alt="PHP: The Right Way"/></p>
+<p><img src="http://www.phptherightway.com/images/banners/med-rect-300x250.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">
@@ -61,7 +61,7 @@ sitemap: true
 
 ## Rectangle (180x150)
 
-<p><img src="/php-the-right-way/images/banners/rect-180x150.png" alt="PHP: The Right Way"/></p>
+<p><img src="http://www.phptherightway.com/images/banners/rect-180x150.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">
@@ -71,7 +71,7 @@ sitemap: true
 
 ## Square Button (125x125)
 
-<p><img src="/php-the-right-way/images/banners/sq-btn-125x125.png" alt="PHP: The Right Way"/></p>
+<p><img src="http://www.phptherightway.com/images/banners/sq-btn-125x125.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">
@@ -81,7 +81,7 @@ sitemap: true
 
 ## Vertical Rectangle (240x400)
 
-<p><img src="/php-the-right-way/images/banners/vert-rect-240x400.png" alt="PHP: The Right Way"/></p>
+<p><img src="http://www.phptherightway.com/images/banners/vert-rect-240x400.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">

@@ -29,7 +29,7 @@
 2. 使用 4 个空格来缩进，不要使用 tabs。
 3. 每隔 120 个字符换行。
 4. 示例代码应该遵循 PSR-1 以上的规范。
-5. 简体中文翻译请先参照 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+5. 简体中文翻译请先参照 [中文文案排版指北（简体中文版）](https://github.com/mzlogin/chinese-copywriting-guidelines)
 
 ## 其他语言版本
 
