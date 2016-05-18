@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 广告横幅
 description: "利用 _PHP 之道_ 广告横幅宣传！让 PHP 新手知道哪里可以获取好的资讯。"
 sitemap: true

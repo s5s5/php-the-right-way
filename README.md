@@ -29,7 +29,7 @@
 2. 使用 4 个空格来缩进，不要使用 tabs。
 3. 每隔 120 个字符换行。
 4. 示例代码应该遵循 PSR-1 以上的规范。
-5. 简体中文翻译请先参照 [Chi-78nese Copywriting Guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
+5. 简体中文翻译请先参照 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
 ## 其他语言版本
 
@@ -38,7 +38,7 @@
 * [English](http://www.phptherightway.com)
 * [Bulgarian](http://bg.phptherightway.com)
 * [Chinese (Simplified)](http://laravel-china.github.io/php-the-right-way/)
-* [Chinese (Traditional)](http://laravel-taiwan.github.io/php-the-right-way/)
+* [Chinese (Traditional)](http://laravel-taiwan.github.io/php-the-right-way)
 * [French](http://eilgin.github.io/php-the-right-way/)
 * [German](http://rwetzlmayr.github.io/php-the-right-way)
 * [Indonesian](http://id.phptherightway.com)
@@ -50,7 +50,7 @@
 * [Portuguese](http://br.phptherightway.com)
 * [Romanian](https://bgui.github.io/php-the-right-way/)
 * [Russian](http://getjump.github.io/ru-php-the-right-way)
-* [Serbian](http://smatejic.github.io/php-the-right-way/)
+* [Serbian](http://phpsrbija.github.io/php-the-right-way/)
 * [Slovenian](http://sl.phptherightway.com)
 * [Spanish](http://phpdevenezuela.github.io/php-the-right-way)
 * [Thai](https://apzentral.github.io/php-the-right-way/)
